@@ -9,7 +9,7 @@
         },
         "DebugEnabled": false,
         "TeamToolInfo": {
-            ["Team1"]: {"Tool1", "Tool2"}
+            "Team1": {"Tool1", "Tool2"}
         }
     }
 } 
