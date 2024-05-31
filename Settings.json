@@ -8,8 +8,5 @@
             "1000981545": true
         },
         "DebugEnabled": false,
-        "TeamToolInfo": {
-            "Team1": {"Tool1", "Tool2"}
-        }
     }
 } 
